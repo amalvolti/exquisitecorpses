@@ -5,6 +5,8 @@ function setup() {
 function draw() {
   background(0);
 
+  rotateY(frameCount * 0.01);
+
   noStroke();
   fill('white');
   triangle(30, 75, 58, 20, 86, 75);
@@ -17,6 +19,9 @@ function draw() {
   fill(255,150,0);
   ellipse(200,100,150,100);
 
-  // animate one or all of these shapes
+  //draw lines, 50px apart
+
+
+
 }
 
