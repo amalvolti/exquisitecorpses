@@ -21,6 +21,11 @@ function draw() {
 
   //draw lines, 50px apart
 
+  stroke(10)
+ line(10,0,10,400);
+ line(60,0,60,400);
+ line(110,0,110,400);
+
 
 
 }
