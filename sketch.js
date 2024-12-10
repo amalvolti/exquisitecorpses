@@ -10,6 +10,9 @@ function draw() {
   triangle(30, 75, 58, 20, 86, 75);
  
   //draw a cicle 
+  circle(200,200,30);
+
+  //draw three small squares
 
 }
 
