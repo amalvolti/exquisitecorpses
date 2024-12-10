@@ -3,9 +3,10 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background(0);
 
- //make background black
+  //Draw a triangle 
+ 
 
 }
 
