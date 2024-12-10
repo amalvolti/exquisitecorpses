@@ -6,13 +6,14 @@ function draw() {
   background(0);
 
   noStroke();
-  Fill('white');
+  fill('white');
   triangle(30, 75, 58, 20, 86, 75);
- 
-  //draw a cicle 
   circle(200,200,30);
+  square(100,200,30)
+  square(200,200,30)
+  square(300,200,30)
 
-  //draw three small squares
+  // Draw oval ellipse in top half of the background
 
 }
 
