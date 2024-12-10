@@ -13,7 +13,10 @@ function draw() {
   square(200,200,30)
   square(300,200,30)
 
-  // Draw oval ellipse in top half of the background
 
+  fill(255,150,0);
+  ellipse(200,100,150,100);
+
+  // animate one or all of these shapes
 }
 
