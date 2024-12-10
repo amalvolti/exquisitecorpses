@@ -5,8 +5,11 @@ function setup() {
 function draw() {
   background(0);
 
-  //Draw a triangle 
+  noStroke();
+  FileList('white');
+  triangle(30, 75, 58, 20, 86, 75);
  
+  //draw a cicle 
 
 }
 
